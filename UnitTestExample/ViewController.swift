@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  UnitTestExample
-//
-//  Created by hidemune on 12/31/20.
-//
-
 import UIKit
 
 class ViewController: UIViewController {

@@ -1,10 +1,3 @@
-//
-//  UnitTestExampleUITests.swift
-//  UnitTestExampleUITests
-//
-//  Created by hidemune on 12/31/20.
-//
-
 import XCTest
 
 class UnitTestExampleUITests: XCTestCase {
