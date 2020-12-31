@@ -15,6 +15,7 @@
 		8327EC4B259DFE4400B0B145 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8327EC49259DFE4400B0B145 /* LaunchScreen.storyboard */; };
 		8327EC56259DFE4400B0B145 /* UnitTestExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8327EC55259DFE4400B0B145 /* UnitTestExampleTests.swift */; };
 		8327EC61259DFE4400B0B145 /* UnitTestExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8327EC60259DFE4400B0B145 /* UnitTestExampleUITests.swift */; };
+		8327EC72259DFFA100B0B145 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8327EC71259DFFA100B0B145 /* UserProfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8327EC5C259DFE4400B0B145 /* UnitTestExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTestExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8327EC60259DFE4400B0B145 /* UnitTestExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestExampleUITests.swift; sourceTree = "<group>"; };
 		8327EC62259DFE4400B0B145 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8327EC71259DFFA100B0B145 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8327EC3E259DFE4300B0B145 /* AppDelegate.swift */,
 				8327EC40259DFE4300B0B145 /* SceneDelegate.swift */,
 				8327EC42259DFE4300B0B145 /* ViewController.swift */,
+				8327EC71259DFFA100B0B145 /* UserProfile.swift */,
 				8327EC44259DFE4300B0B145 /* Main.storyboard */,
 				8327EC47259DFE4400B0B145 /* Assets.xcassets */,
 				8327EC49259DFE4400B0B145 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				8327EC43259DFE4300B0B145 /* ViewController.swift in Sources */,
 				8327EC3F259DFE4300B0B145 /* AppDelegate.swift in Sources */,
+				8327EC72259DFFA100B0B145 /* UserProfile.swift in Sources */,
 				8327EC41259DFE4300B0B145 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
